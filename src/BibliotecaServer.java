@@ -14,6 +14,9 @@ public class BibliotecaServer extends UnicastRemoteObject implements Biblioteca 
         livros.put("O Senhor dos Anéis", true);
         livros.put("Jogos Vorazes", true);
         livros.put("Harry Potter", true);
+        livros.put("A Cabana na Floresta", true);
+        livros.put("O Homem de Giz", true);
+        livros.put("A Biblioteca da Meia-Noite", true);
     }
 
     @Override
